@@ -1,0 +1,6 @@
+git status                                                                                                                                               
+git add test.py                                                                                                                                          
+git status                                                                                                                                               
+git commit -m "added testing files"                                                                                                                                             
+git status                                                                                                                                               
+git restore test.py
